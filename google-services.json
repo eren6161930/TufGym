@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252627533309",
+    "project_id": "fitnessapp-3237c",
+    "storage_bucket": "fitnessapp-3237c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252627533309:android:c0e84166c285881a67ed94",
+        "android_client_info": {
+          "package_name": "com.example.fitness_yonetim_sistemi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcUgjXDn1-bI5_sQ4Fk3FscqYyY0vqggw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
